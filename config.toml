@@ -1,0 +1,11 @@
+baseURL = "https://kiyohitonara.github.io/blog/"
+canonifyurls = true
+hasCJKLanguage = true
+languageCode = "ja-jp"
+paginate = 5
+publishDir = "docs"
+theme = "black-and-light"
+title = "Kiyohito's blog"
+
+[params]
+  sitename = "Kiyohito's blog"
